@@ -12,7 +12,7 @@
     - [Usage](#usage-1)
 4. [Repository Structure](#repository-structure)
 5. [Contributing](#contributing)
-6. [License](#license)
+
 
 ## Introduction
 This repository contains two main projects related to Data Science:
@@ -51,17 +51,7 @@ The Recommendation System project is a hybrid approach combining collaborative f
 1. Review the detailed methodology and results in the report `Recommendation_system.pdf`.
 2. Implement the system based on the provided documentation and code snippets in the report.
 
-## Repository Structure
-
-
-├── Time_series_forecasting.ipynb  # Jupyter notebook for time series forecasting
-├── Recommendation_system.pdf      # PDF report for recommendation system
-├── requirements.txt               # Dependencies for running the notebooks
-└── README.md                      # This readme file
 
 ## Contributions
-Chahat Segan
-Ujjwal Bhardwaj
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+1. Chahat Segan
+2. Ujjwal Bhardwaj
