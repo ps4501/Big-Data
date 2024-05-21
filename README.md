@@ -27,7 +27,7 @@ The Time Series Forecasting project focuses on analyzing temporal data to predic
 ### Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/ps4501/Big-Data.git
     cd your-repo
     ```
 
